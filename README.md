@@ -7,3 +7,8 @@ The story is that his planet has been invaded, and all of the population has bee
 
 ## How to run
 First download the files, the open using Unity and run the game directly from there. Future updates will include an install file and more levels.
+
+## How to play
+wasd = directional controls
+spacebar = jump
+mouse = camera adjust
